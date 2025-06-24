@@ -7,3 +7,4 @@ To train and evaluate the model, from the terminal run
 ```bash 
 python3 main.py
 ```
+file:///home/selim/image_recognition_llm/conf_matrix.png
